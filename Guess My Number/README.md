@@ -7,12 +7,12 @@ The game employs event listeners to detect user interactions such as submitting 
 
 ## ⚙️ What did I learn by making this project?
 
--   Vanilla JavaScript
--   DOM Architechture and DOM Manipulation 
-
+- Vanilla JavaScript
+- DOM Architechture and DOM Manipulation
 
 ## ▶️ Live Project Link:
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://guess-the-number-javascript-project.netlify.app/)
+
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://guess-my-number-geetika.netlify.app/)
 
 <hr>
 ## 📷 Screenshots:
@@ -22,6 +22,7 @@ The game employs event listeners to detect user interactions such as submitting 
 ![image](https://github.com/vitthal-korvan/Javascript-DOM-Projects/blob/main/Guess%20My%20Number/images/Screenshot/desktop%20start.png)
 
 ### Desktop Win:
+
 ![image](https://github.com/vitthal-korvan/Javascript-DOM-Projects/blob/main/Guess%20My%20Number/images/Screenshot/desktop%20win.png)
 
 <hr>

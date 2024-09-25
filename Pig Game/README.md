@@ -5,12 +5,12 @@ Players can choose to keep rolling to amass more points or pass to secure their 
 
 ## ⚙️ What did I learn by making this project?
 
--   Vanilla JavaScript
--   DOM Architechture and DOM Manipulation 
-
+- Vanilla JavaScript
+- DOM Architechture and DOM Manipulation
 
 ## ▶️ Live Project Link:
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://dice-pig-game-js.netlify.app/)
+
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://dice-pig-game-geetika.netlify.app/)
 
 <hr>
 ## 📷 Screenshots:
@@ -20,6 +20,7 @@ Players can choose to keep rolling to amass more points or pass to secure their 
 ![image](https://github.com/vitthal-korvan/Javascript-DOM-Projects/blob/main/Pig%20Game/Screenshot/Desktop%20start.png)
 
 ### Desktop Win:
+
 ![image](https://github.com/vitthal-korvan/Javascript-DOM-Projects/blob/main/Pig%20Game/Screenshot/Desktop%20Win.png)
 
 <hr>
